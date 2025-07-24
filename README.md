@@ -12,5 +12,6 @@ experience that allows users to learn how to inspect, assemble, and replace ball
 mechanical workshop environment. This hands-on simulation is intended to replicate realistic 
 maintenance procedures and enhance understanding through experiential learning.
 
-## Documentation
+Learn more about this project in ![Documentation](./Documentation)
+## Demo
 [![Watch the video](https://img.youtube.com/vi/swaWkST1OT0/0.jpg)](https://www.youtube.com/watch?v=swaWkST1OT0)
