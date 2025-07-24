@@ -16,5 +16,5 @@ maintenance procedures and enhance understanding through experiential learning.
 ## Documentation
 
 
-##Demo
-[Watch Demo Video](./Demo.mp4)
+
+[![Watch the video]](https://raw.githubusercontent.com/doubletran/UE-VRPump/main/Demo.mp4)
